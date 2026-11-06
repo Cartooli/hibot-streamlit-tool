@@ -4,7 +4,7 @@
 
 **Service:** [YOUR APP NAME]
 **Operator:** Hi, Bot
-**Contact:** rob@cartooli.com
+**Contact:** open a GitHub Issue at https://github.com/Cartooli/hibot-streamlit-tool/issues (no public email)
 **Last updated:** [DATE]
 
 ## What we collect
@@ -20,4 +20,4 @@ Adding storage, accounts, analytics, or third-party services changes what data i
 General-audience; does not knowingly collect personal information from children.
 
 ## Contact
-Questions? Email rob@cartooli.com.
+Questions? Open a GitHub Issue at https://github.com/Cartooli/hibot-streamlit-tool/issues.

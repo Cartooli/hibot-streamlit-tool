@@ -4,7 +4,7 @@
 
 **Service:** [YOUR APP NAME]
 **Operator:** Hi, Bot
-**Contact:** rob@cartooli.com
+**Contact:** open a GitHub Issue at https://github.com/Cartooli/hibot-streamlit-tool/issues (no public email)
 **Governing law:** [JURISDICTION]
 **Last updated:** [DATE]
 
@@ -24,4 +24,4 @@ The app is provided without warranties. Results are for general guidance only an
 We may update these terms. Continued use after changes means you accept them.
 
 ## 6. Contact
-Questions? Email rob@cartooli.com.
+Questions? Open a GitHub Issue at https://github.com/Cartooli/hibot-streamlit-tool/issues.
